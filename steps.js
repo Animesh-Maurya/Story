@@ -23,6 +23,7 @@
 //Want to see how many total brances are there in total (git branch) and branch which contain (*) is showing the in which current branch we are
 //if we want to switch the branch we can do this by (git checkout NEW_BRANCH_NAME)
 //aur phie hume naye branch ke liye bhi git add. karna padega sarri file ko uss branch me add karne ke liye..
+//if we want to merge any thing then we can do this by simply (git merge NEW_BRANCH) and you can add it to the new main branch.
 
 /****************************GITHUB*********************************/
 //if we want to do transfer our existing local repository to the remote then  simply by writing (git remote add origin gitHub reposetory link)
